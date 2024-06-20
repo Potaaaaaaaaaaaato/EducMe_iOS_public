@@ -16,7 +16,7 @@ L'application vise à fournir une plateforme interactive et éducative pour les 
 - Présentation des partis politiques français avec leurs idéologies.
 - Informations sur les leaders, les positions clés et les contributions politiques.
 
-### 4. Engagement civique
+### 4. Engagement civique (à termes)
 - Rappels et informations sur le rôle du citoyen, ses droits et devoirs.
 - Moyens de participer activement à la vie politique et civique.
 
@@ -33,11 +33,11 @@ L'application vise à fournir une plateforme interactive et éducative pour les 
 - Moteur de recherche permettant aux utilisateurs de trouver des informations spécifiques.
 - Filtrage par catégorie, période historique, ou sujet politique.
 
-### 4. Informations pratiques
+### 4. Informations pratiques (à termes)
 - Guides pratiques pour les démarches administratives liées aux documents d'identité.
 - Informations sur les lieux de vote, les processus électoraux, etc.
 
-### 5. Contenu multilingue
+### 5. Contenu multilingue (à termes)
 - Prise en charge de plusieurs langues pour atteindre un public plus large.
 - Possibilité d'ajouter des langues supplémentaires à l'avenir.
 
