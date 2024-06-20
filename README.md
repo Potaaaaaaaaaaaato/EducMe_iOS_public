@@ -3,6 +3,10 @@
 ## Objectif de l'application
 L'application vise à fournir une plateforme interactive et éducative pour les utilisateurs français, mettant l'accent sur la compréhension des institutions, des processus politiques et des responsabilités civiques.
 
+| ![Institutions](images/institutions.PNG) | ![Histoire](images/histoire.PNG) | ![Partis politiques](images/partis_politiques.PNG) | ![FAQ](images/faq.PNG) | ![Paramètres](images/parametres.PNG) |
+| --- | --- | --- | --- | --- |
+
+
 ## Domaines Couverts
 ### 1. Institutions françaises
 - Présentation des principales institutions, leurs rôles et responsabilités.
